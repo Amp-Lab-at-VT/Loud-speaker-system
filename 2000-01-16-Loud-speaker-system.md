@@ -21,7 +21,7 @@ Vibhav Nanda
 Rich Dumene
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Loud-speaker-system"" >Loud-speaker-system</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Loud-speaker-system" >Loud-speaker-system</a>
 
 ## Photo
 
