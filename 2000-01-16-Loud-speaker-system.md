@@ -3,8 +3,8 @@ layout: project_template
 title: Loud speaker system
 description: To repair a broken speaker system
 date: 2000-01-16 09:00:00
-hero_image: /web/img/Loud-speaker-system/open_house.png
-image: /web/img/Loud-speaker-system/open_house.png
+hero_image: /web/img/Loud-speaker-system/Hero.png
+image: /web/img/Loud-speaker-system/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
